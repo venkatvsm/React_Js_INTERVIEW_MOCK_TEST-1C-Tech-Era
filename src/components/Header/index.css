@@ -1,0 +1,11 @@
+.navBar {
+  height: 15vh;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding-left: 50px;
+  background-color: #f1f5f9;
+}
+.navBar_image {
+  width: 170px;
+}

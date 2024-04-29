@@ -1,0 +1,21 @@
+.link {
+  width: 20%;
+  margin: 2%;
+  color: #475569;
+  font-weight: 600;
+  text-decoration: none;
+}
+.ListItems {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  width: 100%;
+}
+.ListItems_image {
+  width: 60px;
+  margin-right: 6px;
+}
+.ListItems_para {
+  font-size: 18px;
+  font-family: 'Roboto';
+}
